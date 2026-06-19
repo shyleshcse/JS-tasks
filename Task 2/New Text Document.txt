@@ -1,4 +1,4 @@
-GITHUB LINK -
+GITHUB LINK - https://github.com/shyleshcse/JS-tasks/blob/main/Task%202/t2.js
 
 
 
