@@ -1,0 +1,223 @@
+GITHUB LINK -
+
+
+
+
+
+QUESTION:
+
+Employee Management Console System (JavaScript)
+🎯 Objective
+Create a simple Employee Management System using only the JavaScript concepts you've learned so far.
+Task 1: Employee Registration
+Store the following details:
+Employee Name
+Employee ID
+Department
+Salary
+Is Permanent Employee (true/false)
+Expected Output
+Employee Details
+----------------
+Name       : Naveen
+ID         : EMP101
+Department : Development
+Salary     : 50000
+Permanent  : true
+Use
+let
+const
+console.log()
+Template String
+Task 2: Employee Skills
+Store at least 6 skills inside an array.
+Example
+["HTML","CSS","JavaScript","React","Git","Node.js"]
+Print
+First Skill
+Third Skill
+Last Skill
+Total Skills
+Task 3: Company Object
+Create one object called
+company
+Properties
+companyName
+location
+employees
+technologies(Array)
+Print
+Company Name
+Location
+Second Technology
+Total Technologies
+Task 4: Salary Calculator
+Given
+let basicSalary = 30000;
+let bonus = 5000;
+Calculate
+Total Salary
+Tax (10%)
+Final Salary
+Print all values.
+Task 5: Attendance Checker
+Given
+let attendance = 92;
+Using Ternary Operator
+If attendance is greater than or equal to 75
+Eligible for Exam
+Otherwise
+Not Eligible
+Task 6: Login Verification
+let username = "admin";
+let password = "12345";
+Check
+If username is "admin" AND password is "12345"
+Print
+Login Successful
+Else
+Invalid Credentials
+Use
+&&
+Task 7: Product Billing
+Store
+Product Name
+Product Price
+Quantity
+Calculate
+Total Bill
+Print
+Product : Laptop
+
+Price : 45000
+
+Quantity : 2
+
+Total : 90000
+Task 8: Increment & Decrement
+let visitors = 100;
+Perform
+Pre Increment
+Post Increment
+Pre Decrement
+Post Decrement
+Print every result and explain the output in comments.
+Task 9: Comparison Checker
+Predict and print the output of the following:
+console.log(10 == "10");
+
+console.log(10 === "10");
+
+console.log(20 != "20");
+
+console.log(20 !== "20");
+
+console.log(5 < 10);
+
+console.log(15 >= 20);
+
+console.log(100 <= 100);
+Write the expected result as comments.
+Task 10: User Interaction
+Use
+prompt()
+confirm()
+alert()
+Flow
+Ask Employee Name
+
+↓
+
+Ask Employee Age
+
+↓
+
+Ask "Do you want to join our company?"
+
+↓
+
+If user clicks OK
+
+Show
+
+Welcome <Employee Name>
+
+Else
+
+Show
+
+Thank You
+🏆 Final Challenge (Combine Everything)
+Create a Mini Employee Portal.
+Requirements
+Employee Object
+Skills Array
+Salary Calculation
+Login Verification
+Attendance Check
+Experience Check
+Bonus Calculation
+Template Strings
+Console Methods
+Alert
+Confirm
+Prompt
+Ternary Operator
+Logical Operators
+Final Console Output
+==============================
+      EMPLOYEE PORTAL
+==============================
+
+Employee Name : Naveen
+
+Employee ID   : EMP101
+
+Department    : Development
+
+Experience    : 3 Years
+
+Salary        : ₹50000
+
+Bonus         : ₹5000
+
+Final Salary  : ₹55000
+
+Skills        : HTML, CSS, JavaScript, React, Git, Node.js
+
+Attendance    : 92%
+
+Exam Status   : Eligible
+
+Login Status  : Success
+
+Company       : Stackly IT
+
+Location      : Coimbatore
+
+==============================
+⭐ Bonus Task (Team Competition)
+Each team should create one real-world system using only the concepts learned so far:
+🏧 ATM System
+🛒 Shopping Bill Generator
+🎓 Student Report Card
+🏥 Hospital Patient Registration
+🍕 Food Order System
+🚗 Car Rental System
+🎬 Movie Ticket Booking
+🏦 Bank Account Management
+📚 Library Management
+✈️ Flight Ticket Booking
+Rule: Do not use if-else, loops, or functions yet. Solve everything using only:
+Variables (var, let, const)
+Console methods
+alert(), confirm(), prompt()
+Arrays
+Objects
+Arithmetic operators
+Assignment operators
+Relational operators
+Logical operators
+Ternary operator
+Template strings
+This will reinforce all the concepts your team has learned so far while keeping the tasks realistic and practical.
