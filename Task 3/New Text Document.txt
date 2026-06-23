@@ -1,0 +1,109 @@
+git hub link: https://github.com/shyleshcse/JS-tasks/blob/main/Task%203/t3.js
+
+
+
+question task
+
+Task :- 
+Task 1: Employee Information System
+Requirements
+Ask Employee Name
+Ask Employee Age
+Ask Employee Department
+Ask Employee Salary
+Store the details in an object.
+Print all details.
+If salary is greater than 30000, display "Eligible for Bonus", otherwise "Not Eligible".
+Concepts: Object, Prompt, if-else, Comparison Operator
+Task 2: Supermarket Billing
+Requirements
+Ask Product Name
+Ask Product Price
+Ask Quantity
+Calculate Total Bill.
+If Total Bill is above 5000, give 10% discount.
+Print Final Amount.
+Concepts: Variables, Arithmetic Operators, if-else
+Task 3: Student Result Portal
+Requirements
+Ask Student Name
+Ask Marks
+Display:
+90+ → Grade A
+75+ → Grade B
+50+ → Grade C
+Below 50 → Fail
+Concepts: if else-if Ladder
+Task 4: Bank ATM Eligibility
+Requirements
+Ask User Name
+Ask Account Balance
+Ask Withdrawal Amount
+If withdrawal amount is less than or equal to balance:
+Print "Transaction Successful"
+Else
+Print "Insufficient Balance"
+Concepts: Comparison Operators, if-else
+Task 5: Login Validation
+Requirements
+Create stored values:
+let username = "admin";
+let password = "12345";
+Take username and password using prompt().
+If both match:
+Login Successful
+Else:
+Invalid Username or Password
+Concepts: Logical AND (&&), if-else
+Task 6: Online Food Order
+Requirements
+Create an array containing 8 food items.
+Print:
+First Item
+Last Item
+Total Number of Items
+Display all food items using for...of.
+Concepts: Array, for...of Loop
+Task 7: Company Employee Directory
+Requirements
+Create an object:
+{
+name:"",
+age:"",
+department:"",
+salary:"",
+experience:""
+}
+Print every key and value using for...in loop.
+Concepts: Object, for...in Loop
+Task 8: Traffic Signal System
+Requirements
+Take signal color using prompt().
+Use switch:
+Red → Stop
+Yellow → Ready
+Green → Go
+Default → Invalid Signal
+Concepts: Switch Statement
+Task 9: Age Category Checker
+Requirements
+Ask user's age.
+Display:
+0–12 → Child
+13–19 → Teenager
+20–59 → Adult
+60+ → Senior Citizen
+Concepts: if else-if
+Task 10: Employee Attendance
+Requirements
+Ask:
+Employee Name
+Attendance (Present/Absent)
+Use Ternary Operator.
+Output:
+Welcome Naveen
+Attendance: Present
+or
+Attendance: Absent
+Concepts: Ternary Operator
+
