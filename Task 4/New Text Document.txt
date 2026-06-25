@@ -1,0 +1,156 @@
+GIt hub link:
+
+
+
+question tasks
+
+Task 1: Employee Management System
+Requirements:
+Store employee details using objects.
+Use arrays to store multiple employees.
+Print all employees using a loop.
+Check salary eligibility using if-else.
+let employees = [
+    {
+        name: "Naveen",
+        id: 101,
+        salary: 30000
+    },
+    {
+        name: "John",
+        id: 102,
+        salary: 60000
+    }
+];
+
+for(let emp of employees){
+    console.log(emp);
+}
+
+Output
+Employee Eligible For Bonus
+Employee Not Eligible For Bonus
+
+
+
+Task 2: Student Result Portal
+Requirements:
+Take student marks.
+Calculate total and percentage.
+Display Grade using if-else.
+Grade Criteria
+90+  = A+
+80+  = A
+70+  = B
+60+  = C
+Below 60 = Fail
+
+
+
+
+Task 3: E-Commerce Cart
+Requirements:
+Store products in array.
+Calculate total bill using function.
+Apply 10% discount if bill exceeds ₹5000.
+let products = [
+    {name:"Laptop", price:50000},
+    {name:"Mouse", price:1000},
+    {name:"Keyboard", price:2000}
+];
+
+
+
+Task 4: Login Authentication
+Requirements:
+Store username and password.
+Use ternary operator.
+Print Login Success or Invalid Credentials.
+let username = "admin";
+let password = "12345";
+
+
+
+
+Task 5: Traffic Signal System
+Requirements:
+Use switch statement.
+Show actions based on color.
+Example
+Red -> Stop
+Yellow -> Ready
+Green -> Go
+
+
+
+Task 6: ATM Withdrawal System
+Requirements:
+User enters balance.
+User enters withdrawal amount.
+Check balance availability.
+Show success/failure message.
+Concepts Used
+Prompt
+If Else
+Operators
+
+
+
+
+Task 7: Online Food Order
+Requirements:
+Create callback function.
+Order placed.
+Food prepared.
+Food delivered.
+Expected Output
+Order Received
+Food Preparing
+Food Delivered
+
+
+
+
+Task 8: Cashback Generator (Generator Function)
+Requirements:
+Create generator function.
+Generate offers one by one.
+Output
+10% Cashback
+20% Cashback
+50% Cashback
+Better Luck Next Time
+
+
+
+
+Task 9: Hospital Patient Check
+Requirements:
+Age > 18
+Weight > 50
+Use Nested If.
+Output
+Eligible For Treatment
+Not Eligible
+
+
+
+
+Task 10: Final Real-Time Project (Best for Team)
+Mini Employee Portal
+Features:
+✅ Add Employee
+✅ View Employee
+✅ Calculate Bonus
+✅ Search Employee By ID
+✅ Delete Employee
+✅ Total Employees Count
+Concepts Covered
+Variables
+Arrays
+Objects
+Functions
+Loops
+Conditions
+Callback Functions
+CRUD Operations
