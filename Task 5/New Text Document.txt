@@ -1,4 +1,4 @@
-git hub link:
+git hub link: https://github.com/shyleshcse/JS-tasks/blob/main/Task%205/t5.js
 
 
 
