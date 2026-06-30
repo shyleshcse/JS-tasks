@@ -1,0 +1,182 @@
+git hub link:
+
+
+
+task:
+
+
+
+Perfect. Since you're teaching a team, the questions should be easy to understand, real-time, and make students think instead of just writing code.
+Here are some professional interview/training-style tasks based on the topics in your code.
+1. Employee Salary
+Problem
+A company pays ₹45,000 per month to an employee.
+👉 Create a function that returns the employee's yearly salary.
+Expected Output
+Yearly Salary : ₹540000
+
+2. Student Pass or Fail
+A student scored 72 marks.
+👉 Write a function to check whether the student is Pass or Fail.
+Rules
+35 and above → Pass
+Below 35 → Fail
+
+3. Food Bill
+A customer ordered
+Burger = ₹180
+Quantity = 3
+👉 Create a function that returns the total bill.
+
+4. Welcome Employee
+Create a function that accepts
+Employee Name
+Department
+Print
+Welcome Naveen
+Department : Development
+
+5. Shopping Discount
+An online shopping website gives
+Price = ₹5000
+Discount = ₹500
+👉 Create a function that returns the final amount.
+
+6. Company Login
+A company wants to display
+Login Successful
+Loading Dashboard...
+👉 Use a callback function.
+
+7. Food Delivery
+Steps
+Order Received
+
+↓
+
+Preparing Food
+
+↓
+
+Out for Delivery
+
+↓
+
+Delivered
+👉 Use a Higher Order Function.
+
+8. Lucky Draw
+An e-commerce website gives coupons one by one.
+Coupons
+10%
+
+20%
+
+50%
+
+Better Luck Next Time
+👉 Use a Generator Function.
+
+9. Employee Bonus
+Create this function.
+bonus(50000)(5000)
+Output
+Total Salary : 55000
+
+10. Merge Employee Details
+You have
+employeePersonal
+and
+employeeOffice
+👉 Merge them into one object using the Spread Operator.
+
+11. Shopping Cart
+You have
+cart1
+and
+cart2
+👉 Merge both carts.
+
+12. Student Marks
+Create a function
+student("Naveen",90,85,88,95)
+Print
+Student : Naveen
+
+Total Marks
+
+Average
+Use the Rest Operator.
+
+13. Product Details
+Object
+{
+name:"Laptop",
+price:65000,
+brand:"Dell",
+stock:20
+}
+👉 Print only
+Name
+Price
+using Object Destructuring.
+
+14. Customer Details
+Array
+[101,"Naveen","Chennai",9876543210]
+Print
+ID
+Name
+City
+using Array Destructuring.
+
+15. Add Product
+Cart
+["Mobile","Laptop"]
+👉 Add
+Headphone
+using push().
+
+16. Remove Last Product
+Cart
+["Mobile","Laptop","Headphone"]
+👉 Remove the last product.
+
+17. Replace Employee
+Array
+["Rahul","Arun","John","David"]
+Replace
+John
+with
+Naveen
+using splice().
+
+18. Search Product
+Products
+["Mouse","Keyboard","Monitor","Laptop"]
+👉 Check whether
+Laptop
+is available using includes().
+
+19. Employee Ranking
+Salaries
+[25000,45000,30000,70000]
+👉 Sort salaries from lowest to highest.
+
+20. Reverse Chat Messages
+Messages
+["Hi","Hello","How are you?","Good Morning"]
+👉 Display the latest message first using reverse().
+
+⭐ Bonus Team Challenge (Real-Time)
+Mini Project: Employee Management System
+Create a console-based application with these features:
+Add Employee
+View Employees
+Search Employee by ID
+Calculate Salary + Bonus
+Remove Employee
+Sort Employees by Salary
+Find Employee by Name
+Display Employee Details using Destructuring
+These questions are written in a way that beginners can understand easily while still practicing concepts that are commonly used in real projects and interviews.
