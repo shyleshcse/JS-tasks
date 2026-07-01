@@ -1,0 +1,169 @@
+Git hub link:
+
+
+question
+Tasks
+
+🟢 Task 1 - Find the Highest Salary
+let employees = [
+    {
+        name: "Naveen",
+        id: 101,
+        salary: 30000
+    },
+    {
+        name: "John",
+        id: 102,
+        salary: 60000
+    },
+    {
+        name: "Arun",
+        id: 103,
+        salary: 45000
+    }
+];
+Task
+Print
+Highest Salary : 60000
+Employee Name : John
+
+
+🟢 Task 2 - Find Employee by ID
+Using the same array,
+Search for
+let searchId = 103;
+Output
+Employee Found
+
+Name : Arun
+
+Salary : 45000
+If the ID is not available,
+Employee Not Found
+
+
+🟢 Task 3 - Calculate Salary with Bonus
+Bonus
+let bonus = 5000;
+Task
+Calculate the salary after bonus for every employee.
+Output
+Naveen : 35000
+
+John : 65000
+
+Arun : 50000
+
+
+🟢 Task 4 - Experience Check
+let employees = [
+{
+    name:"Naveen",
+    experience:2
+},
+{
+    name:"John",
+    experience:7
+},
+{
+    name:"Arun",
+    experience:5
+}
+];
+Rules
+Experience ≥ 5 → Senior Employee
+Otherwise → Junior Employee
+Output
+Naveen - Junior Employee
+
+John - Senior Employee
+
+Arun - Senior Employee
+
+
+🟢 Task 5 - Display Only Employee Names
+Print only
+Naveen
+
+John
+
+Arun
+
+
+🟢 Task 6 - Display Employee IDs
+Output
+101
+
+102
+
+103
+
+
+🟢 Task 7 - Find Total Salary
+Calculate the total salary paid by the company.
+Output
+Total Salary : 135000
+
+
+🟢 Task 8 - Employees Earning More Than ₹40,000
+Output
+John
+
+Arun
+
+
+🟢 Task 9 - Increase Salary
+Increase every employee's salary by ₹5000.
+Expected Output
+Naveen : 35000
+
+John : 65000
+
+Arun : 50000
+
+
+🟢 Task 10 - Employee Report
+Print using Template Literals.
+Output
+Employee Name : Naveen
+Employee ID : 101
+Salary : 30000
+
+Employee Name : John
+Employee ID : 102
+Salary : 60000
+
+Employee Name : Arun
+Employee ID : 103
+Salary : 45000
+
+
+⭐ Challenge Task (Best for Interviews)
+let employees = [
+{
+    name:"Naveen",
+    id:101,
+    salary:30000
+},
+{
+    name:"John",
+    id:102,
+    salary:60000
+},
+{
+    name:"Arun",
+    id:103,
+    salary:45000
+}
+];
+Find:
+Total number of employees.
+Highest salary.
+Lowest salary.
+Total salary of all employees.
+Employee earning the highest salary.
+Employee earning the lowest salary.
+Employees whose salary is greater than ₹40,000.
+Search an employee by ID.
+Add ₹5,000 bonus to every employee and display the new salary.
+Print a professional employee report using template literals.
