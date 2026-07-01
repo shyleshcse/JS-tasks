@@ -1,4 +1,4 @@
-Git hub link:
+Git hub link: https://github.com/shyleshcse/JS-tasks/blob/main/Task%206/t6.js
 
 
 question
