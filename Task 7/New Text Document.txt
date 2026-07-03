@@ -1,0 +1,283 @@
+Git hub link:
+
+
+
+
+🟢 Task 1 - Student Management System
+Concepts
+Variables
+Objects
+Arrays
+Loop
+if else
+let students = [
+{
+    name:"Naveen",
+    id:101,
+    mark:85
+},
+{
+    name:"John",
+    id:102,
+    mark:45
+},
+{
+    name:"Arun",
+    id:103,
+    mark:25
+}
+]
+Tasks
+Print all students.
+Print only student names.
+Find student ID 102.
+Print students who passed (mark >=35).
+Count total students.
+
+
+🟢 Task 2 - Employee Salary System
+let employees = [
+{
+    name:"Naveen",
+    salary:30000
+},
+{
+    name:"John",
+    salary:45000
+},
+{
+    name:"Arun",
+    salary:60000
+}
+]
+Tasks
+Find highest salary.
+Find lowest salary.
+Add ₹5000 bonus.
+Print total salary.
+Print employees earning above ₹40,000.
+
+
+🟢 Task 3 - Shopping Cart
+let products = [
+{
+    name:"Laptop",
+    price:50000
+},
+{
+    name:"Mouse",
+    price:500
+},
+{
+    name:"Keyboard",
+    price:1500
+}
+]
+Tasks
+Print product names.
+Print total bill.
+Search product "Mouse".
+Apply 10% discount.
+Print the final bill.
+
+
+🟢 Task 4 - Bank Account
+let account={
+    name:"Naveen",
+    balance:50000
+}
+Tasks
+Deposit ₹10,000.
+Withdraw ₹5,000.
+Print current balance.
+Check balance is below ₹20,000.
+Print account details.
+
+
+🟢 Task 5 - Company Login
+Use
+prompt()
+if else
+Logic
+Enter Username
+
+↓
+
+Enter Password
+
+↓
+
+Correct
+
+↓
+
+Welcome
+
+↓
+
+Wrong
+
+↓
+
+Invalid Username or Password
+
+
+🟢 Task 6 - Traffic Signal
+Use
+switch()
+Input
+Red
+Yellow
+Green
+Output
+Stop
+
+Ready
+
+Go
+
+
+🟢 Task 7 - ATM Machine
+Menu
+1 Balance
+
+2 Deposit
+
+3 Withdraw
+
+4 Exit
+Use
+switch()
+
+
+🟢 Task 8 - Cricket Score
+let score=[10,25,40,60,80,100]
+Tasks
+Highest score
+Lowest score
+Total score
+Average score
+
+
+
+🟢 Task 9 - Movie Ticket Booking
+Age >=18
+
+↓
+
+Allow Movie
+
+Otherwise
+
+Not Allowed
+Also use
+confirm()
+
+prompt()
+
+
+🟢 Task 10 - Hospital Appointment
+Enter Token
+
+↓
+
+1 Doctor A
+
+2 Doctor B
+
+3 Doctor C
+Use
+switch()
+
+
+🟢 Task 11 - Array Method Practice
+let fruits=["Apple","Orange","Banana"]
+Perform
+push()
+pop()
+shift()
+unshift()
+splice()
+slice()
+Print the output after every operation.
+
+
+🟢 Task 12 - Higher Order Methods
+let employees=[
+{name:"A",salary:20000},
+{name:"B",salary:35000},
+{name:"C",salary:50000},
+{name:"D",salary:70000}
+]
+Tasks
+Using map()
+Increase every salary by ₹5,000.
+Using filter()
+Salary greater than ₹30,000.
+Using find()
+Find salary ₹50,000.
+Using reduce()
+Calculate total salary.
+Using some()
+Check whether any employee earns more than ₹60,000.
+Using every()
+Check whether every employee earns more than ₹15,000.
+
+
+🟢 Task 13 - String Practice
+let company=" Stackly IT "
+Tasks
+Convert to uppercase.
+Convert to lowercase.
+Remove spaces.
+Replace "IT" with "Software".
+Check whether "Stackly" exists.
+Split using space.
+
+
+🟢 Task 14 - Digital Clock
+Display the current time every second.
+Use
+Date()
+setInterval()
+Stop after 10 seconds.
+
+
+🟢 Task 15 - Fake Store API
+https://fakestoreapi.com/products
+Tasks
+Print all product titles.
+Print only prices.
+Print products costing more than ₹100.
+Count total products.
+Print category names.
+
+
+⭐ Final Mini Project (Best Assignment)
+Employee Payroll System
+Concepts to Use
+Variables
+Arrays
+Objects
+Loops
+if else
+switch
+Functions
+Callback
+Higher Order Functions (map, filter, find, reduce)
+Template Literals
+Date
+Promise (fetch)
+Features
+View Employees
+Search Employee by ID
+Add Bonus
+Find Highest Salary
+Find Lowest Salary
+Calculate Total Salary
+Filter Salary Above ₹40,000
+Print Employee Report
+Display Current Date & Time
+Fetch Employee Data from an API
+Exit
+This sequence is ideal for classroom practice because it starts with basic JavaScript logic and gradually introduces higher-order methods, asynchronous programming, and APIs using realistic business scenarios.
