@@ -1,0 +1,201 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+
+    background: #f5f5f5;
+
+    padding: 20px;
+
+}
+
+h1 {
+
+    text-align: center;
+
+    margin-bottom: 20px;
+
+}
+.readMore {
+    color: #0d6efd;
+    font-weight: bold;
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 8px;
+}
+
+.readMore:hover {
+    text-decoration: underline;
+}
+
+.description {
+    line-height: 1.6;
+}
+.controls {
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    flex-wrap: wrap;
+
+    gap: 15px;
+
+    margin-bottom: 20px;
+
+}
+
+.controls input,
+.controls select {
+
+    padding: 10px;
+
+    width: 220px;
+
+    font-size: 16px;
+
+    border: 1px solid gray;
+
+    border-radius: 6px;
+
+}
+
+#count {
+
+    text-align: center;
+
+    margin-bottom: 20px;
+
+    color: #1e3a8a;
+
+}
+
+.api {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+    gap: 20px;
+
+}
+
+.card {
+
+    width: 320px;
+
+    background: white;
+
+    border-radius: 10px;
+
+    padding: 20px;
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+
+    text-align: center;
+
+}
+
+.card img {
+
+    width: 180px;
+
+    height: 180px;
+
+    object-fit: contain;
+
+    margin: 15px 0;
+
+}
+
+.card h3 {
+
+    margin-bottom: 10px;
+
+    font-size: 18px;
+
+}
+
+.card p {
+
+    text-align: justify;
+
+    margin: 8px 0;
+
+}
+
+.price {
+
+    font-size: 20px;
+
+    font-weight: bold;
+
+    color: green;
+
+    margin: 10px 0;
+
+}
+
+.rating {
+
+    color: orange;
+
+    font-weight: bold;
+
+}
+
+.category {
+
+    color: #0d6efd;
+
+    font-weight: bold;
+
+}
+
+button {
+
+    margin-top: 15px;
+
+    padding: 10px 25px;
+
+    background: #0d6efd;
+
+    color: white;
+
+    border: none;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+
+    font-size: 16px;
+
+}
+
+button:hover {
+
+    background: #0849a6;
+
+}
+
+.notfound {
+
+    text-align: center;
+
+    width: 100%;
+
+    color: red;
+
+    font-size: 25px;
+
+    margin-top: 50px;
+
+}

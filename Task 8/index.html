@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fake Store API Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>🛒 Fake Store Products</h1>
+
+    <div class="controls">
+
+        <input type="text" id="search" placeholder="Search Product...">
+
+        <select id="category">
+
+            <option value="all">All Categories</option>
+
+            <option value="electronics">
+                Electronics
+            </option>
+
+            <option value="men's clothing">
+                Men's Clothing
+            </option>
+
+            <option value="women's clothing">
+                Women's Clothing
+            </option>
+
+            <option value="jewelery">
+                Jewellery
+            </option>
+
+        </select>
+
+        <select id="price">
+
+            <option value="all">
+                All Prices
+            </option>
+
+            <option value="below100">
+                Below $100
+            </option>
+
+            <option value="above100">
+                Above $100
+            </option>
+
+        </select>
+        <input type="number" id="selectedPrice" placeholder="Show Below Selected Price">
+
+        <select id="special">
+
+            <option value="all">
+                Show All Products
+            </option>
+
+            <option value="nameonly">
+                Product Name Only
+            </option>
+
+            <option value="first5">
+                First 5 Products
+            </option>
+
+            <option value="last5">
+                Last 5 Products
+            </option>
+
+            <option value="highest">
+                Highest Rated Product
+            </option>
+
+            <option value="cheapest">
+                Cheapest Product
+            </option>
+
+            <option value="costliest">
+                Costliest Product
+            </option>
+
+        </select>
+
+    </div>
+
+    <h2 id="count">
+        Total Products : 0
+    </h2>
+
+    <div class="api">
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,140 @@
+Git hub link:
+
+
+
+
+
+🟢 Task 1 - Show Product Count
+Display the total number of products above the cards.
+Example:
+Total Products : 20
+
+
+🟢 Task 2 - Display Only Product Names
+Remove the image, description, and price.
+Display only:
+Product Name
+
+
+🟢 Task 3 - Display Products Below ₹100
+Show only products whose price is less than $100.
+
+
+🟢 Task 4 - Display Products Above ₹100
+Show only products whose price is greater than $100.
+
+
+🟢 Task 5 - Show Category
+Add the category below the product title.
+Example:
+Category : Electronics
+
+
+🟢 Task 6 - Display Rating
+Display:
+Rating : ⭐ 4.8
+Use the rating object from the API.
+
+
+🟢 Task 7 - Product Search
+Create an input box.
+When the user enters:
+shirt
+Display only products whose title contains shirt.
+
+
+🟢 Task 8 - Electronics Products
+Display only products whose category is:
+electronics
+
+
+🟢 Task 9 - Men's Clothing
+Display only:
+men's clothing
+products.
+
+
+🟢 Task 10 - Women's Clothing
+Display only:
+women's clothing
+products.
+
+
+🟢 Task 11 - Jewellery Products
+Display only:
+jewelery
+products.
+
+
+🟢 Task 12 - Show First 5 Products
+Display only the first 5 products.
+
+
+🟢 Task 13 - Show Last 5 Products
+Display only the last 5 products.
+
+
+🟢 Task 14 - Add Serial Number
+Display:
+Product 1
+
+Product 2
+
+Product 3
+before every title.
+
+
+🟢 Task 15 - Long Description
+If the description is more than 100 characters, display only the first 100 characters followed by:
+Read More...
+
+
+🟢 Task 16 - Highest Rated Product
+Find and display only the product with the highest rating.
+
+
+🟢 Task 17 - Cheapest Product
+Find and display only the product with the lowest price.
+
+
+🟢 Task 18 - Costliest Product
+Find and display only the product with the highest price.
+
+
+🟢 Task 19 - Error Page
+If the API fails, display:
+❌ Unable to Load Products
+
+Please try again later.
+instead of the browser error.
+
+
+🟢 Task 20 - Company-Level Mini Project
+Create a product page with:
+Search Product
+Filter by Category
+Show Product Count
+Show Rating
+Show Price
+Product Image
+Buy Now Button
+Error Handling
+⭐ Challenge (Without Using Advanced Concepts)
+Using only:
+fetch()
+.then()
+.catch()
+forEach()
+if...else
+DOM methods
+Template literals
+Build a page where the user can:
+Search a product by title.
+Filter products by category.
+Show only products below a selected price.
+Display the total number of displayed products.
+Show a "No Products Found" message if nothing matches.
+
+These tasks stay within the concepts you've already covered and are excellent practice for real frontend development.
+
+
