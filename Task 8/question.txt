@@ -1,5 +1,5 @@
 Git hub link:
-
+https://github.com/shyleshcse/JS-tasks/blob/main/Task%208/script.js
 
 
 
